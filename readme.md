@@ -1,9 +1,9 @@
 # **Content**
-`bash
+```bash
 git add .  
-git commit  -m "day01"  
+git commit  -m "day01" 
 git push  origin master   
-`
+```
 - [x] [0.day00](#day00)  
 - [x] [1.day01](#day01)  
 - [ ] [2.day02](#day02)  

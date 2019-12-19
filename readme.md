@@ -1,11 +1,22 @@
 # **Content**
-git add .
-git commit  -m "day01"
-git push  origin master 
-
-[0.day00](#day00)  
-[1.day01](#day01)  
-[2.day02](#day02)  
+`bash
+git add .  
+git commit  -m "day01"  
+git push  origin master   
+`
+- [x] [0.day00](#day00)  
+- [x] [1.day01](#day01)  
+- [ ] [2.day02](#day02)  
+- [ ] [3.day03](#day03)  
+- [ ] [4.day04](#day04)  
+- [ ] [5.day05](#day05)  
+- [ ] [6.day06](#day06)  
+- [ ] [7.day07](#day07)  
+- [ ] [8.day08](#day08)  
+- [ ] [9.day09](#day09)  
+- [ ] [10.day10](#day10)  
+- [ ] [11.day11](#day11)  
+ 
 
 #  **富人思维索引**
 

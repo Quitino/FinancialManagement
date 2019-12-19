@@ -31,7 +31,7 @@
 
 - [摆脱负债我是怎么做到的.](https://mp.weixin.qq.com/s?__biz=MzUyMTMzNzIwMg==&mid=2247483703&idx=1&sn=469de539e93691a59ddc8a571afa3997&chksm=f9dde12aceaa683c2ad6fb09fb199bda45e36402802b9e18c8e06c19ca65c4dc587edc8ec482&mpshare=1&scene=1&srcid=12197ICdhFHd1L7BWc6ilu0K&sharer_sharetime=1576741529639&sharer_shareid=7f2ef8062db941cd6f362e2b47bfec4b&exportkey=A4dMkMXTbRj3ESLC3RlrBUw%3D&pass_ticket=ZYSINZZTwwYR48b5EB%2FaOYIfTcAzsEvb7Fj4FaohLuwq8dA9HrUINDNmt09UtcwG#rd)
 
-### 1.4.对于所有的消费，都要问自己【这真的有必要吗？】
+### 1.4.对于所有的消费，都要问自己'这真的有必要吗？'
 
 > 名牌衣服包包、贷款买车等应该是使用零用钱或存钱罐中的钱，而不是杀自己的鹅.
 消费产生的负债是坏负债，坏负债会持续的带来净现金流出，坏负债会让我们在债务的泥潭中越陷越深，越来越穷，最终陷入财务危机之中。

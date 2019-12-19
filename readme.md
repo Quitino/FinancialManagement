@@ -55,9 +55,9 @@
 
 # day01
 
-##  1.早读
+##  1.早读.学习理财--预见未来不一样的自己
 
-- [早读.学习理财--预见未来不一样的自己](http://xiaobai.yaocaiwuziyou.com/index.php/Home/OldTest/Zao?num=1)
+- [早读](http://xiaobai.yaocaiwuziyou.com/index.php/Home/OldTest/Zao?num=1)
 
 
 ##  2.防骗.股票投资骗局

@@ -32,7 +32,7 @@
 > 假如你月收入只有1000元，你至少可以存下10%，100元。拿剩下的900元再去消费。我相信每个月100元并不会对你的日常生活造成什么影响。但是这和你拿着1000元去消费，想着我剩多少存多少，结果会完全不一样。
 > 先储蓄后消费，月光族思维改变的第一步！
 
-- [摆脱负债我是怎么做到的.](https://mp.weixin.qq.com/s?__biz=MzUyMTMzNzIwMg==&mid=2247483703&idx=1&sn=469de539e93691a59ddc8a571afa3997&chksm=f9dde12aceaa683c2ad6fb09fb199bda45e36402802b9e18c8e06c19ca65c4dc587edc8ec482&mpshare=1&scene=1&srcid=12197ICdhFHd1L7BWc6ilu0K&sharer_sharetime=1576741529639&sharer_shareid=7f2ef8062db941cd6f362e2b47bfec4b&exportkey=A4dMkMXTbRj3ESLC3RlrBUw%3D&pass_ticket=ZYSINZZTwwYR48b5EB%2FaOYIfTcAzsEvb7Fj4FaohLuwq8dA9HrUINDNmt09UtcwG#rd)[这种文章个人认为堪比咪蒙公众号文章，有过之而无不及，各位看官自己权衡取舍.]
+- [摆脱负债我是怎么做到的.](https://mp.weixin.qq.com/s?__biz=MzUyMTMzNzIwMg==&mid=2247483703&idx=1&sn=469de539e93691a59ddc8a571afa3997&chksm=f9dde12aceaa683c2ad6fb09fb199bda45e36402802b9e18c8e06c19ca65c4dc587edc8ec482&mpshare=1&scene=1&srcid=12197ICdhFHd1L7BWc6ilu0K&sharer_sharetime=1576741529639&sharer_shareid=7f2ef8062db941cd6f362e2b47bfec4b&exportkey=A4dMkMXTbRj3ESLC3RlrBUw%3D&pass_ticket=ZYSINZZTwwYR48b5EB%2FaOYIfTcAzsEvb7Fj4FaohLuwq8dA9HrUINDNmt09UtcwG#rd)[**这种文章个人认为堪比咪蒙公众号文章，有过之而无不及，各位看官自己权衡取舍.**]
 
 ### 1.4.对于所有的消费，都要问自己'这真的有必要吗？'
 

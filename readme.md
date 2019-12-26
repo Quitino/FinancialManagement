@@ -52,7 +52,7 @@ readme:此仓库为自己在学习一个代码学习公众号的推送课程中�
 |[05.无论投资不投资你都在投资](http://note.youdao.com/noteshare?id=31d96a44feccc7df1db8f25f73bc891f)|[05.反常识-股票暴跌收益会更高](http://note.youdao.com/noteshare?id=e2c73932ef3385219bfdd82412e11cf4)|[05.虚拟货币投资骗局](http://note.youdao.com/noteshare?id=0b53ae01582db0652128572a3aa00368)  
 |[06.8岁小女孩问倒巴菲特，为啥那么牛](http://note.youdao.com/noteshare?id=e2fccc689d65dd8bc05ecaca094b97c3)|[06.升职、跳槽、创业、不懂企业怎么行](http://note.youdao.com/noteshare?id=c4c07ed5ce5d692307092c043ddbac85)|[06.二元期货投资骗局](http://note.youdao.com/noteshare?id=ce1e70aa5f5952e0d11ac2309f3682d7)  
 |[07.别让‘等有时间再做’毁了你](http://note.youdao.com/noteshare?id=eabb3aae6cc2a5b4099090fbf15fbc97)|[07.小白必备的房地产投资神器](http://note.youdao.com/noteshare?id=ae392d65d2063eaa67e4b71942230afa)|[07.信用卡融资骗局](http://note.youdao.com/noteshare?id=f864e05174237a0374f0e292d9cc3557)  
-|[08.免费到底是便宜还是贵](#1早读免费到底是便宜还是贵)|[08.懒人躺赚的理财方式](#3晚课懒人躺赚的理财方式)|[08.互联网金融传销骗局](#2午防互联网金融传销骗局)  
+|[08.免费到底是便宜还是贵](http://note.youdao.com/noteshare?id=e252a3c892924cf16fcd9a555a83f30f)|[08.懒人躺赚的理财方式](#3晚课懒人躺赚的理财方式)|[08.互联网金融传销骗局](#2午防互联网金融传销骗局)  
 |[09.如果你爱TA，一定让TA学会理财](#1早读如果你爱TA一定让TA学会理财)|[09.理财不被割韭菜](#3晚课理财不被割韭菜)|[09.房地产投资骗局](#2午防房地产投资骗局)  
 |[10.对于年轻人，财务自由有多重要](#1早读对于年轻人财务自由有多重要)|[10.手把手教你查看常用理财工具](#3晚课手把手教你查看常用理财工具)|[10.企业融资骗局](#2午防企业融资骗局)  
 |[11.我的草根同学的财务自由之路](#1早读我的草根同学的财务自由之路)|[]()|[]()  
@@ -1203,48 +1203,16 @@ REITs第六个特点:
 - 第三个要点：善用REITs，选择高分红的REITs  
 
 
-([他说已经到第十二条了，但是我每天记录却只是到第九条，whatever.]())
-
-
 【广告】  
 ![Alt](./pic/day7-5.jpeg)
 
-
-
-
-
-
-
-
 [回到顶部](#readme)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[回到顶部](#readme)
 # day08
 
-
-[回到顶部](#readme)
 ## 1.早读.免费到底是便宜还是贵
-
+略.  
 [回到顶部](#readme)
 ## 2.午防.互联网金融传销骗局
 [回到顶部](#readme)
